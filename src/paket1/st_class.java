@@ -8,7 +8,7 @@ public class st_class {
 
 	public static void main(String[] args) {
 
-		
+		//Hesap Makinesi Giriþ
 		hesapmakinesi();
 	}
 
@@ -46,7 +46,7 @@ public class st_class {
 		}
 
 		System.out.println("Çýkýþ Baþarýyla Tamamlandý.");
-	
+
 	}
 
 }
